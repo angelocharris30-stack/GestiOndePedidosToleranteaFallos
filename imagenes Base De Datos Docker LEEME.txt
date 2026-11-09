@@ -1,0 +1,7 @@
+ghcr.io/angelocharris30-stack/pedidos-Gateway  sha256:356f577b86240c3242df30cf44fa480bc1a267debdd546ea2e84495038105dda
+
+ghcr.io/angelocharris30-stack/pedidos-api1     sha256:12fef5fc249cba2e4dfd1a3435426d3570ada9c7dbadec4b07bda7dda65feb77
+
+ghcr.io/angelocharris30-stack/pedidos-api2     sha256:77421f0aeac2d3ec99fd148c69cef04e63ff7b83780b368e708b040c1cc1f553
+
+"Busca Como descargar imágenes de Docker con ghcr.io "
